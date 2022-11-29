@@ -1,0 +1,85 @@
+body {
+  background-color: white;
+
+  color: black;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+}
+
+marquee.mark  {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid grey;
+  border-width: 2px;
+  font-family: roboto;
+
+
+}
+
+.profile-picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 10%;
+  height: auto;
+  max-width: 150px;
+
+  border-radius: 50%;
+}
+
+.profile-name {
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+  border: 1px solid grey;
+  color: black;
+  border-width: 2px;
+  margin-top: 10px;
+  
+  
+}
+.uloko {
+  text-align: center;
+  padding: 30px;
+  font-size: 12px;
+  border: 1px solid grey;
+  color: black;
+  border-width: 2px;
+  
+  
+  
+}
+
+.links {
+  text-align: center;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-width: 2px;
+  padding: 20px;
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 40px;
+
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+
+  color: red(128, 98, 0);
+  transition: color 1s;
+}
+
+a:hover {
+  color: white;
+  background-color:  rgb(66, 66, 145);
+  
+  p.standard{
+    font-size: 12px;
+  
+  }
